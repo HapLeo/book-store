@@ -1,0 +1,1 @@
+{"version":3,"file":"mine.js","sources":["D:/software/HBuilderX/plugins/uniapp-cli-vite/uniPage:/cGFnZXMvbWluZS9taW5lLnZ1ZQ"],"sourcesContent":["import MiniProgramPage from 'C:/Users/Administrator/Documents/HBuilderProjects/book-store-2/pages/mine/mine.vue'\nwx.createPage(MiniProgramPage)"],"names":["MiniProgramPage"],"mappings":";;;;;;;;;AACA,GAAG,WAAWA,SAAe;"}
